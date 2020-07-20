@@ -1,0 +1,9 @@
+Package: com.hius.noswipekeyboard13
+Name: NoSwipeKeyboard13
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Disable gestures when keyboard
+Maintainer: Hius
+Author: Hius
+Section: Tweaks
